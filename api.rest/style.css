@@ -1,0 +1,26 @@
+h1{
+    color: blanchedalmond;
+    text-align: left;
+    margin-left: 40px;
+}
+
+body{
+    background-image: url(bg.jpg);
+    margin: 100px;
+}
+
+img{
+    width: 700px;
+    height: 350px;
+    
+}
+
+ul{
+    text-align: left;
+}
+
+p{
+    color: blanchedalmond;
+    text-align: justify;
+    margin-right: 410px;
+}
